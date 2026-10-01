@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rod14NL
 - 👀 I’m interested in testing, and smart hom plateform like Home Assistant
-- 🌱 I’m currently learning JavaScript, Cypress and Home Assistant
+- 🌱 I’m currently learning JavaScript, Cypress and Home Assistant. New to Linux (Xubuntu).
 - 💞️ I’m looking to collaborate on testing
 - 📫 How to reach me: 
 - ⚡ Fun fact: 
